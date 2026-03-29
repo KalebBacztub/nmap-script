@@ -3,7 +3,7 @@
 echo -e "\n$(figlet -f slant 'NMAP Script')"
 
 
-echo "Created By Kaleb Bacztub - For TCMs PJPT"
+echo "Created By Kaleb B - For TCMs PJPT and THE OSCP"
 echo " "
 echo "Check the exclude.txt"
 echo " "
